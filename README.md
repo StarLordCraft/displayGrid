@@ -7,4 +7,6 @@ It's a simple layout to test my knoladge about display grid and responsive tecni
 -CSS Display GRID
 -CSS variables with media queries
 -CSS filters
+-CSS transformations
+-CSS animations
 -HTML structure
